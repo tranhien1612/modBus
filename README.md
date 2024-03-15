@@ -7,6 +7,7 @@
 
 ## Cấu trúc khung ModBus RTU
   [Slave Address] [Function Code] [Data]  [CRC]
+  
         1byte          1byte       nbyte  2byte
 
 ## Cấu trúc khung ModBus ASCII
